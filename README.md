@@ -4,4 +4,5 @@ We identified missing values uisng 'df.isna().sum()'. Based on the extent, we us
 
 # Fix Data Types and Remove duplicates
 
-Handled the datatypes of the entries present in the dataset using df.dtypes and convert the numeric and date columns. Saved the version of this file
+Handled the datatypes of the entries present in the dataset using df.dtypes and convert the numeric and date columns. Saved the version of this file. Drop or removed the duplicate entries present in the dataset
+
