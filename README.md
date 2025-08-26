@@ -10,3 +10,7 @@ Handled the datatypes of the entries present in the dataset using df.dtypes and 
 
 Choosing the proper features from the dataset for the prediction by it's various entries from rows and columns. Drop the unnecessary features and save the existing dataset. 
 
+# Data Normalization & Scaling
+
+Identified numerical columns in the dataset. Applied 'MinMaxScaler' to normalize values between 0 and 1. Saved the pre-processed dataset file
+
