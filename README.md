@@ -6,3 +6,7 @@ We identified missing values uisng 'df.isna().sum()'. Based on the extent, we us
 
 Handled the datatypes of the entries present in the dataset using df.dtypes and convert the numeric and date columns. Saved the version of this file. Drop or removed the duplicate entries present in the dataset
 
+# Feature Engineering
+
+Choosing the proper feautres from the dataset for the prediction
+
