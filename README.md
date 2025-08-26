@@ -8,5 +8,5 @@ Handled the datatypes of the entries present in the dataset using df.dtypes and 
 
 # Feature Engineering
 
-Choosing the proper feautres from the dataset for the prediction
+Choosing the proper features from the dataset for the prediction by it's various entries from rows and columns. Drop the unnecessary features and save the existing dataset. 
 
