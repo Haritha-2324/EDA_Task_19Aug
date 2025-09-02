@@ -22,5 +22,34 @@ Export the finalized dataset as "final_data_for_powerbi.csv" for visualization i
 # Day 7 – Data Visualization Planning for Power BI 
  
 To visualize sales performance across regions, products, and time periods using key metrics.
-KPIs to Display - Total Revenue - Average Order Value - Revenue by Product Category - Sales Trend Over Time
+KPIs to Display - Total Revenue - Average Order Value - Revenue by Product Category - Sales Trend Over Time.
+
+## 🧾 Data Preprocessing Summary (Day 8)
+
+Below are the steps performed during the preprocessing pipeline:
+
+1. **Handled Missing Values (Day 3):**  
+   - Used `isna().sum()` to identify missing values.  
+   - Imputed missing numerical columns with mean.  
+   - Filled missing categorical values with `'Unknown'`.  
+
+2. **Fixed Data Types & Removed Duplicates (Day 4):**  
+   - Converted date columns using `pd.to_datetime()`.  
+   - Converted object columns to numeric types using `pd.to_numeric()`.  
+   - Removed duplicate rows using `drop_duplicates()`.  
+
+3. **Applied Feature Scaling (Day 5):**  
+   - Applied `MinMaxScaler` from scikit-learn to normalize numeric features.  
+   - Saved results as `preprocessed_data.csv`.  
+
+4. **Exported Clean Data for Power BI (Day 6):**  
+   - Verified final structure of data.  
+   - Exported dataset for visualization as `final_data_for_powerbi.csv`.  
+
+5. **Planned Visualizations (Day 7):**  
+   - Identified key KPIs and suitable chart types.  
+   - Documented layout in `visualization_plan.md`.
+
+These steps ensure the dataset is clean, standardized, and ready for visualization and modeling.
+
 
