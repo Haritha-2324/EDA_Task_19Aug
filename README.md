@@ -24,7 +24,7 @@ Export the finalized dataset as "final_data_for_powerbi.csv" for visualization i
 To visualize sales performance across regions, products, and time periods using key metrics.
 KPIs to Display - Total Revenue - Average Order Value - Revenue by Product Category - Sales Trend Over Time.
 
-## 🧾 Data Preprocessing Summary (Day 8)
+## Day 8 - Data Preprocessing Summary
 
 Below are the steps performed during the preprocessing pipeline:
 
