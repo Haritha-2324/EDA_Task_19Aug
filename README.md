@@ -16,7 +16,8 @@ Identified numerical columns in the dataset. Applied 'MinMaxScaler' to normalize
 
 # Export data from Power BI
 
-Load the pre-processed data from the previous day task.
+Load the pre-processed data from the previous day task. Verified data integrity and structure.
+Export the finalized dataset as "final_data_for_powerbi.csv" for visualization in PowerBI.
 
 
 
