@@ -19,7 +19,7 @@ Identified numerical columns in the dataset. Applied 'MinMaxScaler' to normalize
 Load the pre-processed data from the previous day task. Verified data integrity and structure.
 Export the finalized dataset as "final_data_for_powerbi.csv" for visualization in PowerBI.
 
-# Day 7 – Data Visualization Plan for Power BI 
+# Day 7 – Data Visualization Planning for Power BI 
  
 To visualize sales performance across regions, products, and time periods using key metrics.
 KPIs to Display - Total Revenue - Average Order Value - Revenue by Product Category - Sales Trend Over Time
