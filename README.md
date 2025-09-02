@@ -14,7 +14,7 @@ Choosing the proper features from the dataset for the prediction by it's various
 
 Identified numerical columns in the dataset. Applied 'MinMaxScaler' to normalize values between 0 and 1. Saved the pre-processed dataset file
 
-# Export data from Power BI
+# Export data for Power BI
 
 Load the pre-processed data from the previous day task. Verified data integrity and structure.
 Export the finalized dataset as "final_data_for_powerbi.csv" for visualization in PowerBI.
