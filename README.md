@@ -52,4 +52,9 @@ Below are the steps performed during the preprocessing pipeline:
 
 These steps ensure the dataset is clean, standardized, and ready for visualization and modeling.
 
+# Day 9 - Power BI Data Connection
+
+Loaded the dataset 'final_data_for_powerbi.csv' into Power BI. 
+Verified the data model and field types. Saved the Power BI file as 'example.pbix'.
+
 
